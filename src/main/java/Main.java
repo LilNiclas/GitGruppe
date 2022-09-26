@@ -11,6 +11,8 @@ public static void main(String[] args){
 
     boolean danielErSej = true;
 
+    System.out.println("Peter manden");;
+
     System.out.println("nu skriver jeg bare ....");
     System.out.println("og mere her");
 }
