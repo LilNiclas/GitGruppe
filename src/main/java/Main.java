@@ -12,6 +12,7 @@ public static void main(String[] args){
     System.out.println("stinus her");
 
     System.out.println("nu skriver jeg bare ....");
+    System.out.println("og mere her");
 }
 
 }
